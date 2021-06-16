@@ -1,0 +1,242 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>词频分析-疑问解答</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            width: 100%;
+            overflow: scroll;
+            overflow-x: hidden;
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        .topNav {
+            height: 43px;
+            width: 100%;
+            display: flex;
+            flex-direction: row-reverse;
+            margin: 0;
+        }
+
+            .topNav img {
+                height: 150%;
+                margin: auto 100px;
+                text-align: center;
+            }
+
+        .demo2 {
+            position: fixed;
+            left: 0;
+            bottom: 0px;
+            width: 100%;
+            z-index: 999;
+        }
+
+        .content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
+
+            .content .top {
+                width: 100%;
+                border: #eae9e7 1.5px;
+                margin: 0;
+            }
+
+        .top img {
+            float: left;
+            height: 60px;
+            margin: 5px 20px;
+        }
+
+        .top p {
+            margin: 30px;
+            font-weight: bold;
+        }
+
+        .content .item {
+            width: 90%;
+            margin: auto;
+            border: #eae9e7 2px solid;
+            border-style: groove;
+            border-radius: 2px;
+            display: flex;
+            flex-direction: row;
+        }
+
+        .item p {
+            flex: 1;
+            margin: 20px auto;
+            margin-left: 50px;
+        }
+
+        .item .dropdown {
+            position: relative;
+            display: inline-block;
+            height: 60px;
+            float: left;
+        }
+
+        .dropdown img {
+            height: 70%;
+            margin: auto 0;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 800px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            padding: 12px 16px;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+            width: 100%;
+            z-index: 100;
+            transform: translate(-800px,0);
+            -webkit-transform: translate(-800px,0); /* Safari and Chrome */
+        }
+
+        #master {
+            text-align: center;
+            margin: auto;
+            bottom: 0;
+            height: 100px;
+            width: 100%;
+            position: fixed;
+        }
+
+        #ret {
+            position: absolute;
+            top: 20px;
+            left: 10px;
+        }
+    </style>
+</head>
+<body style="background-image: url(https://pic3.zhimg.com/v2-8299d5eae2d7c4ac66450baad1a1496a_r.jpg)">
+   
+    <div>
+        <!--导航栏-->
+        <div class="topNav">
+            <img src="https://i.postimg.cc/6QrTjQh6/1.png" />
+        </div>
+
+        <!--页面内容-->
+        <div class="content">
+
+            <!--顶部-->
+            <div class="top">
+                <img src="https://i.postimg.cc/0jk3dDPJ/20210609141615.png" />
+                <p>FREQUENTLY ASKED QUESTIONS</p>
+            </div>
+
+            <!--每项问答 item-->
+            <div class="item">
+                <p>我要怎么上传文件呢？</p>
+                <div class="dropdown">
+                    <span><img src="https://i.postimg.cc/0jk3dDPJ/20210609141615.png" /></span>
+                    <div class="dropdown-content">
+                        <p>
+                            点击首页的添加产品，即可上传本地文件
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <p>如何导入已经分好的关键词？</p>
+                <div class="dropdown">
+                    <span><img src="https://i.postimg.cc/0jk3dDPJ/20210609141615.png" /></span>
+                    <div class="dropdown-content">
+                        <p>
+                            点击【导入单词】，选择【简单导入】把关键词复制粘贴进去，点击【生成并使用】，单词间用逗号隔开或者每个关键词竖着
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <p>大文本如何进行分词？</p>
+                <div class="dropdown">
+                    <span><img src="https://i.postimg.cc/0jk3dDPJ/20210609141615.png" /></span>
+                    <div class="dropdown-content">
+                        <p>
+                            把大文本直接复制粘贴到文本框中，点击【开始分词】；根据【词性】进行过滤不要的关键词，最后点击【生成词云数据】
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <p>如何导出内容中展示的关键词？</p>
+                <div class="dropdown">
+                    <span><img src="https://i.postimg.cc/0jk3dDPJ/20210609141615.png" /></span>
+                    <div class="dropdown-content">
+                        <p>
+                            当想导出内容表格中显示的关键词时，点击【内容】栏中的【导出】即可。
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <p>如何批量修改关键词配置？</p>
+                <div class="dropdown">
+                    <span><img src="https://i.postimg.cc/0jk3dDPJ/20210609141615.png" /></span>
+                    <div class="dropdown-content">
+                        <p>
+                            把需要删除的单词选择好，点击顶部栏的【删除】即可
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <p>如何追加关键词？</p>
+                <div class="dropdown">
+                    <span><img src="https://i.postimg.cc/0jk3dDPJ/20210609141615.png" /></span>
+                    <div class="dropdown-content">
+                        <p>
+                            内容中关键词表格底部，有个【添加单词】输入框，把追加的单词输入进去就可以了
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <p>删除不喜欢的单词？</p>
+                <div class="dropdown">
+                    <span><img src="https://i.postimg.cc/0jk3dDPJ/20210609141615.png" /></span>
+                    <div class="dropdown-content">
+                        <p>
+                            在词云画板上【双击】单词即可删除单词，也可以点击键盘的【删除键】进行删除单词。注意⚠️：删除单词时，建议一定要点对了，因为删除的单词，不能撤销哦。
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <p>导入单词重复/不重复数与量关系？</p>
+                <div class="dropdown">
+                    <span><img src="https://i.postimg.cc/0jk3dDPJ/20210609141615.png" /></span>
+                    <div class="dropdown-content">
+                        <p>
+                            导入的关键词设置为重复时：每个单词会重复出现，直到与自定义单词数量一致为止。例如导入100个关键词，【自定义】单词数量调整到300时，画板就会显示300个关键词，其余200个关键词为重复出现的关键词。
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div id="ret">
+                <a href="index.html">&lt;&nbsp返回</a>
+            </div>
+        </div>
+    </div>
+    <div class="demo2" ; style=" text-align: center;background-image: url(https://ibb.co/B6yyjJk);">
+        <a href="FAQ.html">帮助 FAQ</a>
+        <a>&nbsp联系我们shishaungyuan@qq.com</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最终版Word词频分析", "Word词频分析\最终版Word词频分析.csproj", "{EA6D0CAD-424A-43E2-B997-0D6200C6D22A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6D0CAD-424A-43E2-B997-0D6200C6D22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6D0CAD-424A-43E2-B997-0D6200C6D22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6D0CAD-424A-43E2-B997-0D6200C6D22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6D0CAD-424A-43E2-B997-0D6200C6D22A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7CE6674-2B5F-4FB9-A917-FBCE2A6A3DB4}
+	EndGlobalSection
+EndGlobal

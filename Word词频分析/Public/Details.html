@@ -1,0 +1,102 @@
+﻿﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="../JavaScript/echarts.js"></script>
+    <script src="../JavaScript/echarts-wordcloud.js"></script>
+    <script src="../JavaScript/dwc.js"></script>
+    <link href="../CSS/Details.css" rel="stylesheet" type="text/css" />
+
+    <title>Word词频分析</title>
+    <script type="text/javascript">
+        var str1 = localStorage.getItem(localStorage.getItem("current"));
+        localStorage.removeItem("current");
+        var detailed_information = eval('(' + str1 + ')');
+        var word_filename = detailed_information.filename;
+        var word_uptime = detailed_information.uptime;
+        var word_frequency = getWordFrequency(detailed_information.result);
+    </script>
+</head>
+
+<body>
+    <div id="topNav">
+        <img class="item" src="https://i.postimg.cc/6QrTjQh6/1.png" />
+    </div>
+
+    <div id="ret">
+        <a href="index.html">&lt;&nbsp返回</a>
+    </div>
+
+    <div id="WordCloudDivBackGround">
+
+        <div id="WordFileName" style="width: 1000px;"> </div>
+
+        <div id="WordUpTime"> </div>
+
+        <div id="WordCloudDiv"> </div>
+
+        <div id="ColumnChart"> </div>
+        <table id="WordFrequencyTable">
+            <tr>
+                <th class="ordinal fontcenter">序号</th>
+                <th class="content fontcenter">词语</th>
+                <th class="content fontcenter">词频</th>
+            </tr>
+
+            <tbody id="WordFrequencyTableBody">
+            </tbody>
+        </table>
+    </div>
+
+    <div id="CopyRight">
+        <a href="FAQ.html">帮助 FAQ</a>
+        <a>&nbsp联系我们shishaungyuan@hust.edu.com</a>
+    </div>
+
+    <script type="text/javascript">
+        var WordFileNameDiv = document.getElementById("WordFileName");
+        WordFileNameDiv.innerHTML = detailed_information.filename;
+        var WordUpTimeDiv = document.getElementById("WordUpTime");
+        WordUpTimeDiv.innerHTML = detailed_information.uptime;
+
+        var chart = echarts.init(document.getElementById('WordCloudDiv'));
+        var option = {
+            tooltip: {},
+            series: [{
+                type: 'wordCloud',
+                gridSize: 2,
+                sizeRange: [12, 70],
+                rotationRange: [-90, 90],
+                shape: 'pentagon',
+                width: 800,
+                height: 600,
+                drawOutOfBound: true,
+                textStyle: {
+                    color: function() {
+                        return (
+                            'rgb(' + [
+                                Math.round(Math.random() * 160),
+                                Math.round(Math.random() * 160),
+                                Math.round(Math.random() * 160),
+                            ].join(',') +
+                            ')'
+                        )
+                    },
+                },
+                emphasis: {
+                    textStyle: {
+                        shadowBlur: 10,
+                        shadowColor: '#333',
+                    },
+                },
+                data: word_frequency,
+            }, ],
+        };
+        chart.setOption(option);
+        window.onresize = chart.resize;
+
+        renderChart(word_frequency);
+        generateTable(word_frequency);
+    </script>
+</body>
+</html>

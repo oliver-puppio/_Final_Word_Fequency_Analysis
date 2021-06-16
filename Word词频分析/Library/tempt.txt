@@ -1,0 +1,2442 @@
+华中科技大学2019级本科专业培养计划
+
+测控技术与仪器专业本科培养计划
+Undergraduate Program for Specialty in Measurement and
+Control Technology and Instrumentation
+
+一、培养目标 
+Ⅰ．Educational Objectives
+培养具有科学、工程和人文素养以及健康的身心素质，具备电子学、控制技术、计算机技术、测量学基础知识及研究应用能力、工程实践能力、团队协作能力、创新意识和国际视野，能在自动化、通讯、能源、环保、生物医学等领域从事与测控技术及仪器相关的理论研究、科技开发、组织管理等方面工作的工程技术人员。
+This program aims to cultivate students with scientific, engineering and the humanities as well as the quality of physical and mental health. The students shall obtain basic theory in electronics, control technology, computer technology and measurement technology. The following capabilities shall also be trained such as research and development, engineering practice and team coorperation. The students shall perceive innovative mind and international view though this program. The graduates shall be able to handle engineering professional positions on design and manufacturing, research and development, and operational management, which are measurement and control technology and equipment related, in the area of Automation, communications, energy, environmental protection, biomedicine and etc.
+二、基本规格要求
+Ⅱ．Skills Outcomes
+本专业要求学生系统、坚实的掌握测控技术与仪器系统中共存的信息获取及处理技术、系统分析与设计方法、并在仪器系统构成等方面受到良好的工程实践训练。
+本专业毕业生应具备如下几个方面的素质、知识和能力：
+1．	工程知识：能够将数学、自然科学、工程基础和专业知识用于解决测控系统及仪器设计、开发和应用过程中所面临的问题。
+2．	问题分析：能够应用数学、自然科学基本原理，并通过文献研究，识别、表达、分析测控系统及仪器在设计、开发和应用过程中所面临的问题，并获得有效结论。
+3．	设计/开发解决方案；能够设计针对测控系统及仪器设计、开发和应用过程中所面临问题的解决方案，设计满足特定需求的系统、单元（部件）或工艺流程，并能够在设计环节中体现创新意识，考虑法律、健康、安全、经济、社会及环境等因素。
+4．	科学研究：能够基于科学原理并采用科学方法对测控系统及仪器设计、开发和应用过程中所面临的问题进行研究，包括设计实验、分析与解释数据、并通过信息综合得到合理有效的结论。
+5．	使用现代工具；能够针对测控系统及仪器设计、开发和应用过程中所面临的问题，开发、选择与使用恰当的技术、资源、现代工程工具和信息技术工具，包括对上述工程问题的预测与模拟，并能够理解其局限性。
+6．	工程与社会：能够基于本专业工程相关知识进行合理分析，评价工程问题解决方案对社会、健康、安全、法律以及文化的影响，并理解应承担的责任。
+7．	环境和可持续发展：能够理解和评价针对专业工程问题的工程实践对环境、社会可持续发展的影响。
+8．	职业规范：具有人文社会科学素养、社会责任感，能够在工程实践中理解并遵守工程职业道德和规范，履行责任。
+9．	个人和团队：能够在团队中承担个体、团队成员以及负责人的角色。
+10．沟通：能够就复杂工程问题与业界同行及社会公众进行有效沟通和交流，包括撰写报告和设计文稿、陈述发言、清晰表达或回应指令。并具备一定的国际视野，能够在本专业背景下进行沟通和交流。
+11．项目管理：理解并掌握工程管理原理与经济决策方法，并能在本学科环境中应用。
+12．终身学习：具有自主学习和终身学习的意识，有不断学习和适应发展的能力。
+Students are required to master measurement and control technology, technology of obtaining and disposing coexistence information in instrumental system, way of analyzing and designing system. They can also receive fine pratice in instrument design and manufacture. Students are supposed to obtain:
+1.	Engineering Knowledge: Able to solve problems of design, development and application in control systems and instrumentation with the foundation and professional knowledge of mathematics, natural sciences and engineering.
+2.	Problem Analysis: Identify, formulate, research on literature and analyse engineering problems in the process of design, development and application of control systems and equipment. Reach substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences.
+3.	Design/Development of Solutions: Able to design solutions on design, development and application of control systems and instrumentation. For example, to design a system, the unit (part), or process to meet the specific needs, and to reflect the sense of innovation in the design session, to consider the legal, health, safety, economic, social and environmental factors.
+4. Investigation: Conduct investigations of complex problems using research-based knowledge of measurement and control, and using research methods including design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions.
+5. Modern Tool Usage: Create, select and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modelling to solve the complex engineering problems emerged in measurement and control, especially using the internet, database, and the paper and electronic documents in the libraries. Have an understanding of the limitations of these modern tools.
+6. The Engineer and Society: Be able to use professional contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to professional engineering practice and solutions to engineering problems.
+7. Environment and Sustainability: Be able to understand and evaluate the sustainability and impact of professional engineering practice in the solution of engineering problems in societal and environmental conditions.
+8. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice.
+9. Individual and Team Work: Function effectively as an individual, and as a member or leader in teams.
+10. Communication: Communicate effectively during R&D and application of instrument with the engineering community and with the public, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions. Have a certain international vision, able to communicate and exchange in the professional background.
+11. Project Management and Finance: Obtain knowledge and understanding of engineering management principles and economic decision-making and apply these to manage projects.
+12. Lifelong Learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+三、培养特色
+Ⅲ．Program Highlights
+以信息感知方法为主导的科学与工程测量仪器设计和实现。
+Science and engineering survey instrument design and implementation based on information- sensing method.
+四、主干学科
+Ⅳ．Major Disciplines
+仪器科学与技术Instrument Science and Technology、控制科学与工程Control Science and Engineering、计算机科学与技术Computer Science and Technology
+五、学制与学位
+Ⅴ．Length of Schooling and Degree
+修业年限：四年
+Duration:  4 years
+授予学位：工学学士
+Degrees Conferred: Bachelor of Engineering
+六、学时与学分
+Ⅵ．Hours/Credits
+完成学业最低课内学分（含课程体系与集中性实践教学环节）要求：160学分
+Minimum Credits of Curricular (Comprising course system and intensified internship practical training)：160 credits
+完成学业最低课外学分要求：5学分
+Minimum Extracurricular Credits：5 credits
+1．课程体系学时与学分
+Course Credits Hours and Units
+课程类别
+课程性质
+学时/学分
+占课程体系学分比例（％）
+素质教育通识课程
+必修
+528/28
+18
+
+选修
+160/10
+6
+学科基础课程
+必修
+1064/48
+30
+专业课程
+专业核心课程
+必修
+336/32
+20
+
+专业选修课程
+选修
+392/26
+16
+集中性实践教育环节
+必修
+33w/16.5
+10
+合计
+2480+33w/160
+100
+
+
+
+Course Classified
+Course Nature
+Hrs/Crs
+Percentage (%)
+Essential-qualities-oriented Education General Courses
+Required
+528/28
+18
+
+Elective
+160/10
+6
+Basic Courses in Discipline
+Required
+1064/48
+30
+Courses in Specialty
+Core Courses in Specialty
+Required
+336/32
+20
+
+Elective Courses in Specialty
+Elective
+392/26
+16
+Practical Training
+Required
+33w/16.5
+10
+Total
+2480+33w/160
+100
+2．集中性实践教学环节周数与学分
+Practicum Credits
+实践教学环节名称
+课程性质
+周数/学分
+占实践教学环节学分比例（％）
+军事训练
+必修
+2/1
+6.25
+工程训练（3）
+必修
+2/1
+6.25
+工程训练（7）
+必修
+2/1
+6.25
+生产实习（社会实践）
+必修
+2/1
+6.25
+C语言程序设计课程设计
+必修
+3/1.5
+9.38
+自主智能系统课程设计
+必修
+3/1.5
+6.25
+测量系统课程设计
+必修
+3/1.5
+9.38
+毕业设计（论文）
+必修
+16/8
+50.00
+合计
+33/16.5
+100
+
+Internship & Practical Training
+Course Nature
+Weeks/Credits
+Percentage (%) 
+Military Training
+Required
+2/1
+6.25
+Industrial Training(3)
+Required
+2/1
+6.25
+Industrial Training(7)
+Required
+2/1
+6.25
+Engineering Internship (Social Practice)
+Required
+2/1
+6.25
+C Programming Course Project
+Required
+3/1.5
+9.38
+Course Project of Autonomous Intelligent System
+Required
+3/1.5
+6.25
+Course Projects of Measurement System Design
+Required
+3/1.5
+9.38
+Undergraduate Thesis
+Required
+16/8
+50
+Total
+33/16.5
+100
+3．课外学分
+   Extracurricular Credits
+序号
+课外活动名称
+课外活动和社会实践的要求
+课外学分
+1
+社会实践活动
+提交社会调查报告，通过答辩者
+2
+
+
+个人被校团委或团省委评为社会实践活动积极分子者，集体被校团委或团省委评为优秀社会实践队者
+2
+2
+思政课社会实践
+提交调查报告，取得成绩
+2
+3
+英语及计算机考试
+全国大学英语六级考试
+考试成绩达到学校要求者
+2
+
+
+托福考试
+达90分以上者
+3
+
+
+雅思考试
+达6.5分以上者
+3
+
+
+GRE考试
+达325分以上者
+3
+
+
+全国计算机等级考试
+获二级以上证书者
+2
+
+
+全国计算机软件资格、水平考试
+获程序员证书者
+2
+
+
+
+获高级程序员证书者
+3
+
+
+
+获系统分析员证书者
+4
+4
+竞赛
+校级
+获一等奖者
+3
+
+
+
+获二等奖者
+2
+
+
+
+获三等奖者
+1
+
+
+省级
+获一等奖者
+4
+
+
+
+获二等奖者
+3
+
+
+
+获三等奖者
+2
+续表
+序号
+课外活动名称
+课外活动和社会实践的要求
+课外学分
+4
+竞赛
+全国
+获一等奖者
+6
+
+
+
+获二等奖者
+4
+
+
+
+获三等奖者
+3
+5
+论文
+在全国性刊物发表论文
+每篇论文
+2~3
+6
+科研
+视参与科研项目时间与科研能力
+每项
+1~3
+7
+实验
+视创新情况
+每项
+1~3
+注：参加校体育运动会获第一名、第二名者与校级一等奖等同，获第三名至第五名者与校级二等奖等同，获第六至第八名者与校级三等奖等同。
+No.
+Extracurricular Activities and Social Practice
+Requirements
+Extracurricular
+Credits
+1
+Activities of Social Practice
+Submit report and pass oral defense
+2
+
+
+Entitled as Activist by the Communist Youth League of HUST or Hubei Province;
+Membership of the group which is entitled as Excellent Social Practice Group by the Communist Youth League of HUST or Hubei Province
+2
+2
+ Ideological and political course Social Practice
+Submit a report and obtain a passing score
+2
+3
+Examinations in English and Computer
+CET-6
+Students whose Band-6 exam scores accord our requirements
+2
+
+
+TOEFL
+90 Points or Higher
+3
+
+
+IELTS
+6.5 Points or Higher
+3
+
+
+GRE
+325Points or Higher
+3
+
+
+National Computer Rank Examination
+Win certificate of Band-2 or higher
+2
+
+
+National Computer Software Qualification 
+Win certificate of programmer
+2
+
+
+
+Win certificate of Advanced Programmer
+3
+
+
+
+Win certificate of System Analyst
+4
+4
+Competitions
+University Level
+Win first prize
+3
+
+
+
+Win second prize
+2
+
+
+
+Win third prize
+1
+
+
+Provincial Level
+Win first prize
+4
+
+
+
+Win second prize
+3
+
+
+
+Win third prize
+2
+
+
+National Level
+Win first prize
+6
+
+
+
+Win second prize
+4
+
+
+
+Win third prize
+3
+5
+Thesis
+Those whose thesis appears in national publications
+Per piece
+2~3
+6
+Scientific Research
+Depending on both the time spent in and ability demonstrated in scientific research project 
+Each item
+1~3
+7
+Experiments
+Depending on innovative extent
+Each item
+1~3
+Note: In HUST Sports Meeting, the first and the second prize, the third to the fifth prize, and the sixth prize to the eighth prize are deemed respectively the first prize, the second prize and the third prize of university level.
+七、主要课程及创新创业课程
+Ⅶ. Main Courses and Innovation（Entrepreneurship）Courses
+（一）主要课程Main Courses
+电路理论Circuit Theory、模拟电子技术Analog Electronics、数字电子与逻辑设计（一）Digital Circuit and Logic Design(Ⅰ)、微机原理Microcontroller Theory、控制理论Control Theory、信号处理Signal Processing、过程控制系统Process Control System、测控技术与系统Measurement and Control Technology with Systems、误差理论与数据处理Error and Data Analysis、弱信号获取方法Methods of Obtaining Weak Signal、传感器技术Sensor Technology
+（二）创新（创业）课程Innovation（Entrepreneurship）Courses
+创新意识启迪类课程Orientational Innovation (Entrepreneurship) Courses：信息技术基础Introduction to Information Technologies.
+创新能力培养类课程Capacity-building Innovation (Entrepreneurship) Courses：文献检索与科技论文写作Document Retrieval & Scientific Paper Writing.
+创新实践训练类课程Innovative Practice Training Courses：测量系统课程设计Course Projects of Measurement System Design.
+八、主要实践教学环节（含专业实验）
+Ⅷ．Main Internship and Practical Training (Including experiments)
+军事训练Military Training、工程训练Industrial training、生产实习Engineering Internship、课程设计Course Project、毕业设计Undergraduate Thesis
+九、教学进程计划表
+Ⅸ．Table of Teaching Schedule
+院（系）：自动化学院                           专业：测控技术与仪器
+School (Department): School of Automation              Specialty: Measurement and Control Technology and Instrumentation
+课程
+类别
+course type
+课程
+性质
+required/
+elective
+课程
+代码
+course code
+课程名称
+course name
+学时
+hrs
+学分
+crs
+其中
+Including
+设置
+学期
+semester
+
+
+
+
+
+
+实验
+exp.
+上机
+operation
+
+素质教育通识课程Essential-qualities-oriented Education General Courses
+必  修
+Required
+MAX0022
+思想道德修养与法律基础
+Morals & Ethics & Fundamentals of Law
+40
+3
+
+
+1
+
+必  修
+Required
+MAX0042
+中国近现代史纲要
+Survey of Modern Chinese History
+40
+2.5
+
+
+2
+
+必  修
+Required
+MAX0013
+马克思主义基本原理概论
+Basic Theory of Marxism
+40
+2.5
+
+
+3
+
+必  修
+Required
+MAX0002
+毛泽东思想和中国特色社会主义理论体系概论
+General Introduction to Mao Zedong Thought and Socialist Theory with Chinese Characteristics
+72
+4.5
+
+
+4
+
+必修
+Required
+MAX0031
+形势与政策
+Current Affairs and Policy
+32
+2
+
+
+5-7
+
+必  修
+Required
+CHI0001
+中国语文
+Chinese 
+32
+2
+
+
+1
+
+必  修
+Required
+RMWZ0001
+军事理论
+Military Theory
+16
+1
+
+
+1
+
+必  修
+Required
+SFL0001
+综合英语（一）
+Fundamental English （Ⅰ）
+56
+3.5
+
+
+1
+
+必  修
+Required
+SFL0011
+综合英语（二）
+Fundamental English （Ⅱ）
+56
+3.5
+
+
+2
+
+必  修
+Required
+PHE0001
+大学体育（一）
+Physical Education(Ⅰ)
+32
+1
+
+
+1
+
+必  修
+Required
+PHE0011
+大学体育（二）
+Physical Education(Ⅱ)
+32
+1
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+续表
+课程
+类别
+course type
+课程
+性质
+required/
+elective
+课程
+代码
+course code
+课程名称
+course name
+学时
+hrs
+学分
+crs
+其中
+Including
+设置
+学期
+semester
+
+
+
+
+
+
+实验
+exp.
+上机
+operation
+
+
+必  修
+Required
+PHE0021
+大学体育（三）
+Physical Education(Ⅲ)
+32
+1
+
+
+3
+
+必  修
+Required
+PHE0031
+大学体育（四）
+Ph ysical Education(Ⅳ)
+32
+1
+
+
+4
+
+选 修  Elective
+
+从不同的课程模块中修读若干课程，艺术类课程不低于2学分，总学分不低于10学分
+General Education Courses(elective)
+160
+10
+
+
+2-8
+学科基础课程Basic Courses in Discipline
+必  修
+Required
+MAT0551
+微积分（一）上
+Calculus (Ⅰ)
+88
+5.5
+
+
+1
+
+必  修
+Required
+MAT0531
+微积分（一）下
+Calculus (Ⅰ)
+88
+5.5
+
+
+2
+
+必  修
+Required
+MAT0721
+线性代数（一）
+Linear Algebra
+40
+2.5
+
+
+1
+
+必  修
+Required
+MAT0561
+复变函数与积分变换
+Complex Function and Integral Transform
+40
+2.5
+
+
+2
+
+必  修
+Required
+MAT0591
+概率论与数理统计
+Probability and Mathematics Statistics (Ⅲ)
+40
+2.5
+
+
+3
+
+必  修
+Required
+AUT0591
+随机过程
+Stochastic Process
+32
+2
+
+
+3
+
+必  修
+Required
+PHY0511
+大学物理（一）
+Physics (Ⅰ)
+64
+4
+
+
+2
+
+必  修
+Required
+PHY0521
+大学物理（二）
+Physics (Ⅱ)
+64
+4
+
+
+3
+
+必  修
+Required
+PHY0551
+物理实验（一）
+Physics Experiments (Ⅰ)
+32
+1
+32
+
+2
+
+必  修
+Required
+PHY0561
+物理实验（二）
+Physics Experiments (Ⅱ)
+24
+0.8
+24
+
+3
+
+必  修
+Required
+MESE0891
+工程制图（一）
+Engineering Graphics (Ⅰ)
+40
+2.5
+
+
+1
+
+必  修
+Required
+AUT0511
+C语言程序设计
+Advanced Programming Language (C)
+56
+3.5
+
+20
+2
+
+必  修
+Required
+EEE0721
+电路理论（五）
+Circuit Theory (V)
+64
+4
+10
+
+3
+
+必  修
+Required
+EIC0751
+数字电路与逻辑设计（一）
+Digital Circuit and Logic Design (Ⅰ)
+56
+3.5
+
+
+4
+
+必  修
+Required
+EIC0591
+模拟电子技术（二）
+Analog Electronics (Ⅱ)
+56
+3.5
+
+
+4
+
+必  修
+Required
+EIC0551
+电子线路设计·测试·实验（一）
+Electronic Circuitry Design, Test and Experiments (Ⅰ)
+32
+1
+32
+
+4
+
+必  修
+Required
+EIC0541
+电子线路设计·测试·实验（二）
+Electronic Circuitry Design, Test and Experiments (Ⅱ)
+32
+1
+32
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+续表
+课程
+类别
+course type
+课程
+性质
+required/
+elective
+课程
+代码
+course code
+课程名称
+course name
+学时
+hrs
+学分
+crs
+其中
+Including
+设置
+学期
+semester
+
+
+
+
+
+
+实验
+exp.
+上机
+operation
+
+
+必  修
+Required
+AUT0531
+计算方法（二）
+Computational Methods (Ⅱ)
+32
+2
+
+
+3
+
+必  修
+Required
+AUT0571
+信号分析
+Signal Analysis
+32
+2
+
+
+4
+
+必  修
+Required
+CEM0541
+工程力学（二）
+Engineering Mechanics (Ⅱ)
+48
+3
+
+
+4
+专业核心课程Core Courses in Specialty
+必  修
+Required
+AUT2241
+人工智能导论
+Artificial Intelligence
+24
+1.5
+
+
+4
+
+必  修
+Required
+AUT0561
+微机原理
+Prinple of Microcomputer
+48
+3
+16
+
+5
+
+必  修
+Required
+AUT2101
+控制原理
+Control Theory
+56
+3.5
+8
+
+5
+
+必  修
+Required
+AUT2261
+测量信息论初步
+Introduction to Measurement Informatics
+16
+1
+
+
+5
+
+必  修
+Required
+AUT2061
+工程光学
+Engineering Optics
+48
+3
+8
+
+5
+
+必  修
+Required
+AUT2161
+误差理论与数据处理
+Error and Data Analysis
+32
+2
+8
+
+5
+
+必  修
+Required
+AUT2021
+测控技术与系统综合实验（一）
+Measurement and Control Technology with Systems Experiments (Ⅰ)
+32
+1
+
+
+5
+
+必  修Required
+AUT2271
+传感技术
+Sensor Technology
+40
+2.5
+
+
+5
+
+必  修
+Required
+AUT2191
+信号处理 
+Signal Processing
+48
+3
+
+10
+6
+
+必  修
+Required
+AUT2011
+测控技术与系统
+Measurement and Control Technology with Systems
+32
+2
+
+
+6
+
+必  修
+Required
+AUT2081
+精密机械设计基础
+Precision Mechanical Design
+48
+3
+8
+
+7
+专业选修课程
+Elective courses in Specialty
+
+
+专业选修课程 (A类)
+Electives in Specialty（A）
+248
+16.5
+
+
+
+
+选  修
+Elective
+AUT5611
+数据结构
+Data Structure
+48
+2.5
+
+12
+3
+
+选  修
+Elective
+AUT5291
+光学传感与检测
+Optical sensors and gauges
+40
+2.5
+
+
+5
+
+选  修
+Elective
+AUT5072
+测控电路
+Measurement and Control Circuits
+48
+2.5
+16
+
+6
+
+选  修
+Elective
+AUT5081
+测控技术与系统综合实验（二）
+Measurement and Control Technology with Systems Experiments (Ⅱ)
+32
+1
+
+
+6
+
+选  修
+Elective
+AUT5301
+过程控制系统
+Process Control System
+56
+3.5
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+续表
+课程
+类别
+course type
+课程
+性质
+required/
+elective
+课程
+代码
+course code
+课程名称
+course name
+学时
+hrs
+学分
+crs
+其中
+Including
+设置
+学期
+semester
+
+
+
+
+
+
+实验
+exp.
+上机
+operation
+
+专业选修课程Elective courses in Specialty
+选  修
+Elective
+AUT5531
+弱信号获取方法
+Methods of Obtaining Weak Signals
+32
+2
+
+
+6
+
+选  修
+Elective
+AUT5381
+计算机网络
+Computer Network
+40
+2.5
+12
+
+6
+
+
+
+专业选修课程 (B类)
+Electives in Specialty（B）
+128
+10
+
+
+
+
+选  修
+Elective
+AUT5801
+信息技术导论
+Introduction to Information Technologies
+24
+1.5
+
+
+1
+
+选  修
+Elective
+AUT6161
+文献检索与科技论文写作
+Scientific Paper Writing
+16
+1
+16
+
+2
+
+选  修
+Elective
+AUT6021
+工程伦理（案例讲座）
+Engineering Ethic
+32
+2
+
+
+2
+
+选  修
+Elective
+AUT5451
+面向对象的程序设计
+Object Orient Program Design
+40
+2.5
+
+8
+3
+
+选  修
+Elective
+AUT5792
+系统建模
+System Modeling
+32
+2
+
+
+3
+
+选  修
+Elective
+AUT5951
+数据科学基础
+Foundation of Data Science
+32
+2
+
+
+4
+
+选  修Elective
+AUT5031
+Java程序设计
+Java Programming
+40
+2.5
+
+16
+4
+
+选  修
+Elective
+AUT5621
+数据库技术
+Database Technology
+32
+2
+
+
+4
+
+选  修
+Elective
+AUT6051
+工业互联网技术
+Industrial Internet Technology
+32
+2
+
+8
+4
+
+选  修
+Elective
+AUT5521
+软件工程
+Software Engineering
+24
+1.5
+
+8
+5
+
+选  修
+Elective
+AUT5771
+系统仿真与Matlab
+Matlab System Simulation and Matlab
+32
+2
+4
+
+5
+
+选  修
+Elective
+AUT5641
+数字图像处理 
+Digital Image Processing
+32
+2
+
+
+5
+
+选  修
+Elective
+AUT5781
+系统工程
+Introduction of System Engineering
+32
+2
+
+
+5
+
+选  修
+Elective
+AUT5551
+模式识别
+Pattern Recognition
+32
+2
+
+
+5
+
+选  修
+Elective
+AUT6241
+自然语言处理
+Natural Language Processing
+32
+2
+
+
+5
+
+选  修
+Elective
+AUT5021
+DSP原理与应用
+Principle and Application
+32
+2
+8
+
+6
+
+选  修
+Elective
+AUT5351
+计算机视觉
+Computer Vision 
+32
+2
+
+
+6
+
+选  修
+Elective
+AUT5501
+人机交互技术
+Human-computer Interaction Technology
+32
+2
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+续表
+课程
+类别
+course type
+课程
+性质
+required/
+elective
+课程
+代码
+course code
+课程名称
+course name
+学时
+hrs
+学分
+crs
+其中
+Including
+设置
+学期
+semester
+
+
+
+
+
+
+实验
+exp.
+上机
+operation
+
+专业选修课程Elective courses in Specialty
+选  修
+Elective
+AUT5881
+智能控制
+Intelligent Control
+32
+2
+
+
+6
+
+选  修
+Elective
+AUT6081
+脑与认知科学导论
+Introduction to Brain and Cognition Science
+16
+1
+
+
+6
+
+选  修
+Elective
+AUT5341
+计算机控制技术
+Computer Control Technology
+40
+2.5
+8
+
+6
+
+选  修
+Elective
+AUT6101
+群体智能
+Swarm Intelligence
+32
+2
+
+
+7
+
+选  修
+Elective
+AUT5721
+网络安全
+Network Security
+32
+2
+
+
+7
+
+选  修
+Elective
+AUT5421
+可编程逻辑器件原理与应用
+Principles and Applications of Programmable Logic Devices
+32
+2
+8
+
+7
+
+选  修
+Elective
+AUT5841
+仪器可靠性工程
+Instrument Reliability Engineering
+32
+2
+
+
+7
+
+选  修
+Elective
+AUT5471
+嵌入式系统原理与应用
+Principle and Application of Embedded System
+32
+2
+8
+
+7
+
+选  修
+Elective
+AUT6251
+自主智能系统
+Autonomous Intelligent System
+16
+1
+
+
+7
+
+选  修
+Elective
+AUT5321
+机器人原理
+Principle of Robotics
+32
+2
+8
+
+7
+
+选  修
+Elective
+AUT5011
+32位微机原理与接口技术
+Principle of 32 Bit Microcomputer and Interface Technology
+32
+2
+
+
+7
+实践环节Internship and Practical Training
+必  修
+Required
+RMWZ351
+军事训练
+Military Training
+2w
+1
+
+
+1
+
+必  修
+Required
+ENG3541
+工程训练（3）
+Industrial Training
+2w
+1
+
+
+2
+
+必  修
+Required
+ENG3551
+工程训练（7）
+Industrial Training
+2w
+1
+
+
+3
+
+必  修
+Required
+AUT3621
+生产实习
+Engineering Internship
+2w
+1
+
+
+6
+
+必  修
+Required
+AUT3511
+C语言程序设计课程设计
+C Programming Course Project
+3w
+1.5
+
+
+3
+
+必  修
+Required
+AUT3741
+自主智能系统课程设计
+Course Project of Autonomous Intelligent System
+3w
+1.5
+
+
+7
+
+必  修
+Required
+AUT3531
+测量系统课程设计
+Course Projects of Measurement System Design
+3w
+1.5
+
+
+7
+
+必  修
+Required
+AUT3521
+毕业设计（论文）
+Undergraduate Thesis
+16w
+8
+
+
+8
+
+测控技术与仪器第二主修专业培养计划
+Undergraduate Program for the Second Specialty in Measurement and
+Control Technology and Instrumentation
+
+一、培养目标
+Ⅰ．Educational Objectives
+培养具有良好的思想品德和文化修养、专业理论基础宽厚扎实、富于现代科学创新意识，在测控技术与仪器学科领域从事理论研究、科技开发与组织管理的高素质复合型人才。
+Aiming at preparing students for good moral character, high quality education, generous and basic specialty theory and modern scientific original consciousness, the program produces students of comprehensive qualities who can go in for theoretical study, scientific development and management in the field of controllable science and engineering project.
+二、学位
+Ⅱ．Degree Conferred
+	工学学士
+	Bachelor of Engineering
+三、学分
+Ⅲ．Credits
+完成学业最低学分要求：45
+Minimum Course Credits：45
+    其中：
+    Including:
+学科大类基础课程：13.5学分
+Basic Courses in General Discipline:14.5
+        学科专业基础课程：13.5学分
+        Basic Courses in Discipline：13.5
+        专业核心课程：7.5学分
+        Common Core Courses in Specialty：7.5
+        专业方向课程：5.5学分
+Specialty-Oriented Courses：5.5
+        毕业设计（课程设计）： 4学分
+        Undergraduate Thesis：4
+四、教学进程计划表
+Ⅳ．Table of Teaching Schedule
+课程
+类别
+course type
+课程
+性质
+required/
+elective
+课程
+代码
+course code
+课程名称
+course name
+学时
+hrs
+学分
+crs
+其中
+Including
+设置
+学期
+semester
+
+
+
+
+
+
+实验
+exp.
+上机
+operation
+
+
+必  修
+Required
+AUT0561
+微机原理
+Principle and Application of Microcomputer
+56
+3.5
+
+
+5
+
+必  修
+Required
+AUT0571
+信号分析（一）
+Signal Analysis (Ⅰ)
+32
+2
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+课程
+类别
+course type
+课程
+性质
+required/
+elective
+课程
+代码
+course code
+课程名称
+course name
+学时
+hrs
+学分
+crs
+其中
+Including
+设置
+学期
+semester
+
+
+
+
+
+
+实验
+exp.
+上机
+operation
+
+学科大类基础课程Basic Courses in General Discipline
+必  修
+Required
+EIC0751
+数字电路与逻辑设计（一）
+Digital Circuit and Logic Design (Ⅰ)
+56
+3.5
+
+
+4
+
+必  修
+Required
+EIC0591
+模拟电子技术（二）
+Analog Electronics (Ⅱ)
+56
+3.5
+
+
+4
+
+必  修
+Required
+EIC0551
+电子线路设计·测试·实验（一）
+Electronic Circuitry Design, Test and Experiments (Ⅰ)
+32
+1
+32
+
+4
+
+必  修
+Required
+EIC0541
+电子线路设计·测试·实验（二）
+Electronic Circuitry Design, Test and Experiments (Ⅱ)
+32
+1
+32
+
+4
+学科基础课程
+Basic Courses in Discipline
+必  修
+Required
+AUT2271
+传感技术
+Sensor Technology
+40
+2.5
+
+
+5
+
+必  修
+Required
+AUT2161
+误差理论与数据处理
+Error Theory and Data Processing
+32
+2
+8
+
+5
+
+必  修
+Required
+AUT5531
+弱信号获取方法
+Methods of Obtaining Week Signals
+32
+2
+
+
+5
+
+必  修
+Required
+AUT2191
+信号处理
+Signal Processing
+48
+3
+
+10
+6
+
+必  修
+Required
+AUT2021
+测控技术与系统综合实验（一）
+Control Theory and Control Technology Experiments (Ⅰ)
+32
+1
+
+
+6
+
+必  修
+Required
+AUT2101
+控制原理
+Control Theory
+56
+3.5
+8
+
+5
+专业核心课程Common Core Courses in Specialty
+必  修
+Required
+AUT2011
+测控技术与系统
+Measure and Control Technology and System
+32
+2
+
+
+6
+
+必  修
+Required
+AUT5301
+过程控制系统
+Process Control System
+56
+3.5
+
+
+6
+
+必  修
+Required
+AUT5021
+DSP原理与应用
+Principle and Application of DSP
+32
+2
+8
+
+6
+专业方向课程
+Specialty-Oriented Courses
+
+
+专业方向选修课程
+Electives in Specialty
+80
+5.5
+
+
+
+
+选  修
+Elective
+CEM0541
+工程力学
+Engineering Mechanics
+32
+2
+
+
+4
+
+选  修
+Elective
+AUT5072
+测控电路
+Measurement and Control Circuits
+48
+2.5
+16
+
+6
+
+选  修
+Elective
+AUT2081
+精密机械设计基础
+Precision Mechanical Design
+48
+3
+8
+
+6
+
+选  修
+AUT5551
+模式识别
+Pattern Recognition
+32
+2
+
+
+5
+
+选  修
+Elective
+AUT5291
+光学传感与检测
+Optical sensors and gauges
+40
+2.5
+8
+
+5
+
+选  修
+Elective
+AUT2061
+工程光学
+Engineering Optics
+48
+3
+8
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+课程
+类别
+course type
+课程
+性质
+required/
+elective
+课程
+代码
+course code
+课程名称
+course name
+学时
+hrs
+学分
+crs
+其中
+Including
+设置
+学期
+semester
+
+
+
+
+
+
+实验
+exp.
+上机
+operation
+
+专业方向课程
+Specialty-Oriented Courses
+选  修
+Elective
+AUT5931
+电磁场理论基础
+Electromagnetic Fields Theory
+32
+2
+
+
+5
+
+选  修
+Elective
+AUT5941
+可编程控制器
+Programmable Logic Controller
+24
+1.5
+8
+
+6
+
+选  修
+Elective
+AUT5881
+智能控制
+Intelligent Control
+32
+2
+4
+
+6
+
+选  修
+Elective
+AUT5121
+单片机原理
+Principle of Single Chip Microcomputer 
+32
+2
+8
+
+6
+
+选  修
+Elective
+AUT5921
+最优控制
+Optimal Control
+32
+2
+
+
+7
+实践环节Internship and Practical Training
+必  修
+Required
+AUT3571
+课程设计
+Course Project
+4w
+4
+
+
+8
+
+
+测控技术与仪器辅修专业培养计划
+Undergraduate Program for Auxiliary Specialty in
+Measuring and Control Technology and Instrumentations
+   
+一、培养目标
+Ⅰ．Educational Objectives
+培养具有良好的思想品德和文化修养、专业理论基础宽厚扎实、富于现代科学创新意识，在测控技术与仪器学科领域从事理论研究、科技开发与组织管理的高素质复合型人才。
+Aiming at preparing students for good moral character, high quality education, generous and basic specialty theory and modern scientific original consciousness, the program produces comprehenive qualities of students who can go in for theoretical study, scientific development and management in the field of controllable science and engineering project.
+二、学分
+Ⅱ．Credits
+完成学业最低学分要求：25
+Minimum Course Credits：25
+    其中：
+     Including:
+学科基础课程：12.5学分
+        Basic Courses in Discipline：12.5
+        学科专业课程：8.5学分
+        Courses in Specialty：8.5
+专业方向课程：4学分
+Specialty-Oriented Courses：4
+三、教学进程计划表
+Ⅲ．Table of Teaching Schedule
+课程
+类别
+course type
+课程
+性质
+required/
+elective
+课程
+代码
+course code
+课程名称
+course name
+学时
+hrs
+学分
+crs
+其中
+Including
+设置
+学期
+semester
+
+
+
+
+
+
+实验
+exp.
+上机
+operation
+
+学科基础课程
+Basic Courses in Discipline
+必  修
+Required
+AUT2271
+传感技术
+Sensor Technology
+40
+2.5
+
+
+5
+
+必  修
+Required
+AUT2161
+误差理论与数据处理
+Error Theory and Data Processing
+28
+1.5
+8
+
+5
+
+必  修
+Required
+AUT0571
+信号分析（一）
+Signal Analysis (Ⅰ)
+32
+2
+
+
+5
+
+必  修
+Required
+AUT2191
+数字信号处理
+Signal Processing
+48
+3
+
+10
+6
+
+必  修
+Required
+AUT2101
+控制原理
+Control Theory
+56
+3.5
+8
+
+6
+
+必  修
+Required
+AUT2011
+测控技术与系统
+Measure and Control Technology and System
+32
+2
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+续表
+课程
+类别
+course type
+课程
+性质
+required/
+elective
+课程
+代码
+course code
+课程名称
+course name
+学时
+hrs
+学分
+crs
+其中
+Including
+设置
+学期
+semester
+
+
+
+
+
+
+实验
+exp.
+上机
+operation
+
+
+必  修
+Required
+AUT5301
+过程控制系统
+Process Control System
+56
+4
+8
+
+6
+
+必  修
+Required
+AUT5072
+测控电路
+Measurement and Control Circuits
+48
+2.5
+16
+
+6
+专业选修课程
+Electives in Specialty
+
+
+学科专业选修课程
+Electives in Specialty
+72
+4.5
+
+
+
+
+选  修
+Elective
+AUT5121
+单片机原理
+Principle of Single Chip Microcomputer 
+32
+2
+8
+
+6
+
+选  修
+Elective
+AUT5021
+DSP原理与应用
+Principle and Application of DSP
+32
+2
+8
+
+6
+
+选  修
+Elective
+AUT5341
+计算机控制技术
+Microcomputer Control Technology
+40
+2.5
+8
+
+7
+
+选  修
+Elective
+AUT5531
+弱信号获取方法
+Methods of Obtaining Week Signals
+32
+2
+
+
+5
+
+选  修
+Elective
+AUT5881
+智能控制
+Intelligent Control
+32
+2
+4
+
+6
+
+
+
+
+
+
+
+
+
+
+
+·155·

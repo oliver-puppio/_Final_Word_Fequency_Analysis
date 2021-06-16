@@ -1,0 +1,105 @@
+body {
+    background-image: url('https://pic3.zhimg.com/v2-8299d5eae2d7c4ac66450baad1a1496a_r.jpg');
+    height: 200%;
+    text-align: center;
+}
+
+#topNav {
+    height: 43px;
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    border-bottom: #ffffff 1.5px;
+    margin: 0;
+}
+
+#WordCloudDivBackGround {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    /*width: 80%;
+        height: 170%;*/
+    left: 50%;
+    transform: translate(-50%, 0);
+    border-radius: 5px;
+    text-align: center;
+}
+
+#WordFileName {
+    position: relative;
+    margin: 20px 0px 0px 0px;
+    height: 113px;
+    width: 281px;
+    font-size: 26px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+#WordUpTime {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, -350%);
+    font-size: 14px;
+}
+
+#WordCloudDiv {
+    position: relative;
+    width: 640px;
+    height: 360px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+#ColumnChart {
+    width: 1000px;
+    height: 20%;
+    border: solid 0px #b3b3dc;
+    position: relative;
+    top: 40px;
+    left: 20px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+#WordFrequencyTable {
+    top: 100px;
+    width: 90%;
+    border: 1px solid gray;
+    position: relative;
+    margin-top: 13px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background-color: lightpink;
+    margin-top: 250px;
+    margin-bottom: 150px;
+}
+
+.ordinal {
+    width: 20%;
+}
+
+td {
+    text-align: center;
+    background-color: white;
+}
+
+.content {
+    width: 40%;
+}
+
+.fontcenter {
+    text-align: center;
+}
+
+#CopyRight {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    position: fixed;
+    top: 95%;
+}
+
+#ret {
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
